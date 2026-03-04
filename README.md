@@ -20,7 +20,8 @@ Statistics Canada (Telecommunications industry; NAICS 517 / 5173).
 - The YoY Growth Quadrant highlights years where revenue growth outpaced workforce growth (efficiency gain zone).
 
 ## Preview
-![Dashboard Preview](assets/dashboard.png) 
+![Dashboard Preview](assets/dashboard.png)
+
 Tableau Public (https://public.tableau.com/views/RevenuegrowthvsEmploymentgrowthinCanadianTelecommunications/TelecomOpsKPIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Files

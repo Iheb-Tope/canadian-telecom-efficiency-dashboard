@@ -1,4 +1,5 @@
 KPI Dictionary — Canadian Telecom Efficiency Dashboard (2020–2024)
+
 Dataset & Model Context
 
 Grain: Year (industry-level, Canada)

@@ -1,4 +1,4 @@
-Title
+Title:
 Revenue Growth vs Employment Growth in Canadian Telecommunications (2020–2024)
 
 Objective
@@ -80,3 +80,4 @@ Analysis is based on public aggregated data; results reflect industry trends, no
 “Productivity” is inferred via financial-to-labour ratios; not a direct efficiency measurement.
 
 Different NAICS cuts (e.g., 517 vs 5173) may create slight comparability differences; this is noted in documentation.
+

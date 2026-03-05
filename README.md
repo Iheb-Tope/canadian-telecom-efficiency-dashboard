@@ -25,4 +25,7 @@ Statistics Canada (Telecommunications industry; NAICS 517 / 5173).
 Tableau Public (https://public.tableau.com/views/RevenuegrowthvsEmploymentgrowthinCanadianTelecommunications/TelecomOpsKPIDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Files
-- Excel model: `excel/telecom_ops_kpi_model.xlsx`
+
+- **Dashboard preview (image):** `dashboard.png`
+- **Excel KPI model (clean + calculations):** `telecom_ops_kpi_model.xlsx`
+- **KPI Dictionary (definitions + formulas):** `KPI_Dictionary.md`

@@ -1,5 +1,5 @@
 KPI Dictionary — Canadian Telecom Efficiency Dashboard (2020–2024)
-Dataset / Model Context
+Dataset & Model Context
 
 Grain: Year (industry-level, Canada)
 
@@ -14,7 +14,7 @@ Units: Revenue is provided in CAD millions by StatCan; employment is persons.
 | Revenue per Employee  | `Revenue_Per_Employee_CAD` | Productivity proxy: revenue generated per employee. Revenue is converted from millions to dollars. | (Revenue_Million_CAD × 1,000,000) / Employees_Count | CAD per employee  | Higher = more revenue per employee (proxy for productivity/efficiency).                                                                                    |
 | Productivity Gap      | `Growth_Gap_Pct`           | Difference between revenue growth and workforce growth.                                            | Revenue_YoY_Pct − Employment_YoY_Pct                | percentage points | Positive = revenue growing faster than workforce (efficiency/prod gain); negative = workforce growing faster than revenue (potential efficiency pressure). |
 
-Notes / Conventions
+Notes & Conventions
 
 Revenue unit conversion: StatCan revenue is in millions. For per-employee metrics, revenue is converted to dollars by multiplying by 1,000,000.
 

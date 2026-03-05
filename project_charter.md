@@ -2,12 +2,15 @@ Title:
 Revenue Growth vs Employment Growth in Canadian Telecommunications (2020–2024)
 
 Objective
+
 Analyze whether revenue growth in the Canadian telecommunications sector is aligned with operational capacity over time using public, industry-level financial and workforce data. Identify productivity trends and potential resourcing misalignment signals.
 
 Core Business Question
+
 Is revenue growth in Canadian telecommunications outpacing operational capacity, and what does this imply for productivity and future resource planning?
 
 Audience / Use
+
 Operations / performance management stakeholders (industry-level view).
 Portfolio context: demonstrates KPI definition, data preparation, and dashboard storytelling.
 
@@ -80,4 +83,5 @@ Analysis is based on public aggregated data; results reflect industry trends, no
 “Productivity” is inferred via financial-to-labour ratios; not a direct efficiency measurement.
 
 Different NAICS cuts (e.g., 517 vs 5173) may create slight comparability differences; this is noted in documentation.
+
 

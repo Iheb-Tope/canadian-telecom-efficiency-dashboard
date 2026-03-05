@@ -48,9 +48,9 @@ Statistics Canada — employment by telecom industry / carriers (employment prox
 
 Deliverables
 
-Excel model (telecom_ops_kpi_model.xlsx): cleaned tables + KPI calculations (YoY, revenue/employee, gap)
+Excel model (telecom_kpi_model.xlsx): cleaned tables + KPI calculations (YoY, revenue/employee, gap)
 
-Tableau dashboard (Telecom Ops KPI Dashboard.png + Tableau Public link):
+Tableau dashboard (dashboard.png + Tableau Public link):
 
 KPI tiles (year-selectable)
 
@@ -83,5 +83,6 @@ Analysis is based on public aggregated data; results reflect industry trends, no
 “Productivity” is inferred via financial-to-labour ratios; not a direct efficiency measurement.
 
 Different NAICS cuts (e.g., 517 vs 5173) may create slight comparability differences; this is noted in documentation.
+
 
 
